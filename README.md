@@ -1,6 +1,6 @@
-APIS YOTA
+APIS  PHP
 
-(Sistema de apiRestFull para yota de nicaragua)
+(Sistema de apiRestFull)
 
 Comenzando 🚀 
 
